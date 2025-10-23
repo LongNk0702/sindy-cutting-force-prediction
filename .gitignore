@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/processed/
+data/raw/*.mat
+data/raw/*.xlsx
+data/raw/*.csv
+!examples/minimal_dataset.csv
+
+# OS / IDE
+.DS_Store
+.vscode/
+
+# Reports/figures generated
+reports/
+docs/_build/
