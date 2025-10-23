@@ -60,10 +60,10 @@ Each row in the dataset corresponds to one experimental trial with: Run | Vc | f
 data/
 ├─ raw/
 │ ├─ exp_run_01.csv ... exp_run_27.csv # (optional split)
-│ └─ README_DATA.md # This file
 ├─ processed/
 │ ├─ taguchi_L27_processed.csv # Cleaned & normalized dataset
 │ └─ scaler.pkl # StandardScaler object for reproducibility
+└─ README_DATA.md # This file
 ```
 ---
 
