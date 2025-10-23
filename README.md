@@ -1,4 +1,4 @@
-# PySINDy Cutting Force Prediction
+# SINDy Cutting Force Prediction
 
 Repository for **cutting force prediction in milling processes** using a **Taguchi-based dataset (27 experiments)** and **SINDy (Sparse Identification of Nonlinear Dynamics)**.  
 Goal: Identify a sparse, interpretable, and extrapolatable dynamic model of cutting force.

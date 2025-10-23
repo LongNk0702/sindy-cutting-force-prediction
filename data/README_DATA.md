@@ -39,6 +39,10 @@ These parameters were chosen based on:
 
 Each row in the dataset corresponds to one experimental trial with: Run | Vc | ft | a | b | Fx | Fy | Fz
 
+Vc- vận tốc cắt
+ft-lượng tiến dao
+a-chiều sâu cắt dọc trục
+b-chiều sâu cắt hướng kính
 
 ---
 
