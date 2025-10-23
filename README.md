@@ -1,4 +1,4 @@
-# SINDy Cutting Force Prediction
+# PySINDy Cutting Force Prediction
 
 Repository for **cutting force prediction in milling processes** using a **Taguchi-based dataset (27 experiments)** and **SINDy (Sparse Identification of Nonlinear Dynamics)**.  
 Goal: Identify a sparse, interpretable, and extrapolatable dynamic model of cutting force.
@@ -30,16 +30,6 @@ SINDy-Cutting-Force/
 ├── environment.yml # Conda environment setup
 └── README.md # This file
 ```
----
-
-## Quick Setup
-
-### Option 1: Conda
-```bash
-conda env create -f environment.yml
-conda activate sindy-cutting-force
-pre-commit install
-
 ---
 ## References
 
