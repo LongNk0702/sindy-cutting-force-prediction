@@ -18,7 +18,7 @@ Goal: Identify a sparse, interpretable, and extrapolatable dynamic model of cutt
 ## Project Structure
 See detailed structure and explanations in [`docs/index.md`](docs/index.md).
 
-'''
+```
 SINDy-Cutting-Force/
 │
 ├── data/ # Taguchi dataset (27 experiments)
@@ -29,7 +29,7 @@ SINDy-Cutting-Force/
 ├── requirements.txt # Python dependencies
 ├── environment.yml # Conda environment setup
 └── README.md # This file
-'''
+```
 ---
 
 ## Quick Setup
