@@ -29,7 +29,7 @@ SINDy-Cutting-Force/
 ├── requirements.txt # Python dependencies
 ├── environment.yml # Conda environment setup
 └── README.md # This file
-
+'''
 ---
 
 ## Quick Setup
