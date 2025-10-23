@@ -1,4 +1,4 @@
-# SINDy Cutting Force Prediction
+# PySINDy Cutting Force Prediction
 
 Repository for **cutting force prediction in milling processes** using a **Taguchi-based dataset (27 experiments)** and **SINDy (Sparse Identification of Nonlinear Dynamics)**.  
 Goal: Identify a sparse, interpretable, and extrapolatable dynamic model of cutting force.
@@ -8,7 +8,7 @@ Goal: Identify a sparse, interpretable, and extrapolatable dynamic model of cutt
 ## Key Highlights
 - End-to-end pipeline:  
   `load data` → `preprocess` → `feature library` → `fit SINDy` → `evaluate`
-- Benchmark comparison with baseline models: **Random Forest** and **Gradient Boosting**
+<!-- - Benchmark comparison with baseline models: **Random Forest** and **Gradient Boosting** -->
 - Supports both:
   - **Python** (via [PySINDy](https://github.com/dynamicslab/pysindy))
   - **MATLAB** (dedicated scripts for modeling and validation)
